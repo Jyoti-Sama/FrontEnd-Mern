@@ -1,0 +1,25 @@
+.fromSize{
+    min-width: 0px;
+    min-height: 0px;
+    margin: 10vh 10vw;
+}
+.inputSection{
+    margin: 50px 0;  
+}
+
+.inputSectionReg{
+    margin: 20px;  
+}
+.buttonSection{
+    margin: 0;
+}
+
+.bottomSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.Link{
+    text-decoration: none
+}
